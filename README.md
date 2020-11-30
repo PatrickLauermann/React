@@ -3,7 +3,9 @@ https://student-controller.web.app/#/
 
 # Desenvolvedor
 Nome: Patrick Lauermann
+
 Email: p.lauermann09@hotmail.com
+
 Tecnologias/Bibliotecas: Material UI, react-router-dom e bibliotecas do firebase
 
 # Getting Started with Create React App
